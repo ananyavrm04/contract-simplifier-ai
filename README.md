@@ -28,4 +28,14 @@
 ---
 
 ## 📂 Project Structure
+📁 contract-simplifier-ai/
+│
+├── app.py                 
+├── requirements.txt        
+└── .env
 
+📦 Installation & Run Locally
+git clone https://github.com/yourusername/contract-simplifier-ai.git
+cd contract-simplifier-ai
+pip install -r requirements.txt
+streamlit run app.py
