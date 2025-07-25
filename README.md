@@ -35,7 +35,7 @@
 └── .env
 
 📦 Installation & Run Locally
-git clone https://github.com/yourusername/contract-simplifier-ai.git
+git clone https://github.com/ananyavrm04/contract-simplifier-ai.git
 cd contract-simplifier-ai
 pip install -r requirements.txt
 streamlit run app.py
